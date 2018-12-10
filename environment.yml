@@ -1,6 +1,0 @@
-dependencies:
-  - python
-  - numpy
-  - matplotlib
-  - pandas
-  - scikit-learn
